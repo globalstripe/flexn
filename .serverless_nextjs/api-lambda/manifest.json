@@ -1,0 +1,1 @@
+{"apis":{"dynamic":[],"nonDynamic":{"/api/health":"pages/api/health.js","/api/hello":"pages/api/hello.js","/api/time":"pages/api/time.js"}},"domainRedirects":{},"enableHTTPCompression":false}

@@ -1,0 +1,17 @@
+{
+  "name": "bnih29v-ry8g22i",
+  "hash": "U+ycVN7IHjT1PpSx4CapGm4BvguquPboKONmIPizV08=",
+  "description": "Image Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/cclark/flexn3/esc-demo/.serverless_nextjs/image-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::562884438556:role/bnih29v-5zam7xb"
+  },
+  "arn": "arn:aws:lambda:us-east-1:562884438556:function:bnih29v-ry8g22i",
+  "region": "us-east-1"
+}
